@@ -1,3 +1,12 @@
+# Wenrui Zhou (周文睿)
+
+[**Academic homepage**](https://william030422.github.io/) · [Publications](https://william030422.github.io/#publications) · [Google Scholar](https://scholar.google.com/citations?user=5chCL_gAAAAJ&hl=en)
+
+I’m a Ph.D. student in Electronic and Computer Engineering at HKUST, advised by [Ling Pan](https://ling-pan.github.io/group/). My research focuses on reinforcement learning for AI infrastructure and embodied AI.
+
+<details>
+<summary>Hugo template documentation</summary>
+
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
@@ -49,3 +58,5 @@ We're an open source movement that depends on your support to stay online and th
 * [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;quarto&#x2F;)
 * [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
 <!--END_SECTION:news-->
+
+</details>
